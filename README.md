@@ -9,38 +9,10 @@ I am a dedicated and results-driven Computer Science student with a specializati
 ## Skills
 
 ### Programming Languages
-- Python
-- C++
-- R
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
+Python - C++ - R - Java - SQL - HTML - CSS - JavaScript
 
 ### Technologies & Frameworks
-- TensorFlow
-- Keras
-- PyTorch
-- Scikit-learn
-- OpenCV
-- Superset
-- MySQL
-- MongoDB
-- Git
-- GitHub
+TensorFlow - Keras - PyTorch - Scikit-learn - OpenCV - Superset - MySQL - MongoDB - Git - GitHub
 
 ### AI & ML
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- NLP
-
-## Interests
-- Artificial Intelligence
-- Data Analysis
-- Machine Learning
-- Deep Learning
-- Product Management
-- Neural Networks
+- Artificial Intelligence - Machine Learning - Deep Learning - Neural Networks - NLP
