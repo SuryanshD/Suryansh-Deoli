@@ -15,4 +15,4 @@ Python - C++ - R - Java - SQL - HTML - CSS - JavaScript
 TensorFlow - Keras - PyTorch - Scikit-learn - OpenCV - Superset - MySQL - MongoDB - Git - GitHub
 
 ### AI & ML
-- Artificial Intelligence - Machine Learning - Deep Learning - Neural Networks - NLP
+Artificial Intelligence - Machine Learning - Deep Learning - Neural Networks - NLP
